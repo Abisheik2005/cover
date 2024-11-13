@@ -120,7 +120,7 @@ Publish the website in the LocalHost.
             <div class="subtitle">METHODOLOGY TO UNETHICAL HACKING</div>
             <div class="mypic"><img src="nptal pic.jpg" width="130" height="145" alt=""></div>
             <div class="id"><hr style="color: rgb(0, 255, 60);"></div>
-            <div class="author"><p><b>BY SRIRAM</b></p></div>
+            <div class="author"><p><b>BY ABISHEIK R</b></p></div>
             <div class="pub">OPEN >>></div>
             <div class="ed"><b>Special Edition</b></div>
         </div>
