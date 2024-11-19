@@ -1,5 +1,5 @@
-# Ex.06 Book Front Cover Page Design
-## Date:
+# Ex.05 Book Front Cover Page Design
+## Date:1-10-24
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -31,8 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta name="viewport" 
@@ -53,7 +52,7 @@ Publish the website in the LocalHost.
             color: rgb(0, 255, 60);
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(web\ image.jpg);
+            background-image: url(wewb\ image.jpg);
             background-size: cover;
         }
         .insight{
@@ -118,7 +117,7 @@ Publish the website in the LocalHost.
             <div class="hrstyle"><hr style="color: rgb(0, 255, 60);"></div>
             <div class="booktitle"><h1>WHITE AND BLACK HAT HACKING BASICS TO PROFESSIONAL</h1></div>
             <div class="subtitle">METHODOLOGY TO UNETHICAL HACKING</div>
-            <div class="mypic"><img src="nptal pic.jpg" width="130" height="145" alt=""></div>
+            <div class="mypic"><img src="wewb photo.jpg" width="130" height="145" alt=""></div>
             <div class="id"><hr style="color: rgb(0, 255, 60);"></div>
             <div class="author"><p><b>BY ABISHEIK R</b></p></div>
             <div class="pub">OPEN >>></div>
@@ -129,7 +128,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d9d233cc-e4db-4257-9b7e-083ce6e7415b)
+![Screenshot 2024-11-19 165517](https://github.com/user-attachments/assets/a81accb9-3e2c-41fe-a09b-a9fd7037eda0)
+
 
 
 ## RESULT:
